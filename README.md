@@ -66,5 +66,3 @@ Use **Logisim** to simulate this project:
    * Click the Clock icon to step through instructions manually.
    * Observe the changes in registers and memory for each cycle.
 
-```
-
