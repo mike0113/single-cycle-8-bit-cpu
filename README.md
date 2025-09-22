@@ -1,12 +1,10 @@
 # single-cycle-8-bit-cpu
 > A single-cycle 8-bit cpu with only two registers
 
----
-
 ## Instruction Set Architecture (ISA)
 The processor follows a simple instruction encoding scheme where the operation can be identified by examining the top bits of each byte.
 
-### Key Features
+### Features
 - Separate instruction and data memory
 - Two general-purpose registers **($ra, $rb)**
 - Supports arithmetic, logical, and branching instructions
@@ -56,9 +54,7 @@ Use **Logisim** to simulate this project:
 
 1. **Clone the repository:**
 
-```bash
-git clone https://github.com/mike130193/Single-Cycle-8-bit-CPU.git
-```
+`git clone https://github.com/mike130193/Single-Cycle-8-bit-CPU.git`
 
 2. **Open the circuit in Logisim:**
 
